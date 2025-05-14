@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Medicine ➡️ Software & Mechanic ➡️ Data Science ➡️ ?
+Medicine ➡️ Software & Mechanics ➡️ Data Science ➡️ ?
