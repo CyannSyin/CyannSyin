@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Medicine ➡️ Software & Mechanics ➡️ Data Science ➡️ ?
+
+<br/>
+
+<a href="https://github.com/CyannSyin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyannSyin&theme=buefy&layout=compact" />
+</a>
+
+<br/>
