@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 
 👩‍⚕️ Medicine 
+
 ⬇️
+
 👩‍💻 Software & Mechanics 
+
 ⬇️
+
 👩‍💻 Data Science 
+
 ⬇️ 
+
 ❓
 
 <br/>
